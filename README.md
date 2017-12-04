@@ -81,7 +81,7 @@ In this tutorial we show a step to step for install and configure a deep learnin
     export PYTHONPATH=$PYTHONPATH:/home/<your-username>/opencv-3.1.0-py36/lib/python3.6/site-packages
 
 
-## [PowerAI](http://ibm.biz/poweraideveloper) release 4 provides software packages for several Deep Learning frameworks
+## [PowerAI](http://ibm.biz/poweraideveloper) release 4 provides software packages for several Deep Learning frameworks and tools
 
 https://public.dhe.ibm.com/software/server/POWER/Linux/mldl/ubuntu/README.html
 
