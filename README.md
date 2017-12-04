@@ -86,6 +86,17 @@ In this tutorial we show a step to step for install and configure a deep learnin
 https://public.dhe.ibm.com/software/server/POWER/Linux/mldl/ubuntu/README.html
 
 
+- Bazel
+- Caffe - BVLC, IBM, and NVIDIA variants
+- Chainer
+- DIGITS
+- NCCL
+- OpenBLAS
+- OpenMPI - with CUDA enablement
+- TensorFlow
+- Theano
+- Torch
+
 
 ## Blogs 
 
