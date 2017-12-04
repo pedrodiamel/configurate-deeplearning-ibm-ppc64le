@@ -100,9 +100,9 @@ https://public.dhe.ibm.com/software/server/POWER/Linux/mldl/ubuntu/README.html
 
 ## Blogs 
 
-https://www.ibm.com/us-en/
-https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Using_a_GPU_in_a_Docker_Container_on_POWER?lang=en
-https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_Torch_on_OpenPOWER_Linux_Systems?lang=en
-https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_DIGITS_on_OpenPOWER_Linux_Systems?lang=en
-https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_TensorFlow_on_OpenPOWER_Linux_Systems?lang=en
-https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_Caffe_on_OpenPOWER_Systems?lang=en
+- https://www.ibm.com/us-en/
+- https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Using_a_GPU_in_a_Docker_Container_on_POWER?lang=en
+- https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_Torch_on_OpenPOWER_Linux_Systems?lang=en
+- https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_DIGITS_on_OpenPOWER_Linux_Systems?lang=en
+- https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_TensorFlow_on_OpenPOWER_Linux_Systems?lang=en
+- https://www.ibm.com/developerworks/community/blogs/fe313521-2e95-46f2-817d-44a4f27eba32/entry/Building_Caffe_on_OpenPOWER_Systems?lang=en
