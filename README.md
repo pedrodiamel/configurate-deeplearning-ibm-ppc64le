@@ -36,7 +36,7 @@ In this tutorial we show a step to step for install and configure a deep learnin
 
     #Creating a container
 
-    nvidia-docker run -name DL -v /home/projects:/data -d nvidia/cuda-ppc64le:8.0-cudnn6-devel-ubuntu16.04 tail -f /dev/null
+    nvidia-docker run --name DL -v /home/projects:/data -d nvidia/cuda-ppc64le:8.0-cudnn6-devel-ubuntu16.04 tail -f /dev/null
 
     #Accesing container bash
 
