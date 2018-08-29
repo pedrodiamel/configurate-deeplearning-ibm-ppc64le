@@ -39,6 +39,8 @@ In this tutorial we show a step to step for install and configure a deep learnin
 ## Pytorch with Anaconda
 
     # https://developer.ibm.com/code/howtos/install-pytorch-on-power    
+    # https://github.com/ppc64le/build-scripts/blob/master/pytorch/ubuntu_build_intructions.txt
+    
     export CMAKE_PREFIX_PATH="$(dirname $(which conda))/../"
     conda install numpy pyyaml setuptools cmake cffi
     git clone --recursive https://github.com/pytorch/pytorch
