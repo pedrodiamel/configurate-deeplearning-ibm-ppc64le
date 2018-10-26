@@ -4,6 +4,10 @@ Bring more value to your organization’s data by developing with an entirely ne
 
 In this tutorial we show a step to step for install and configure a deep learning server in IBM POWER8.
 
+## ibmcom/powerai
+- [powerai](https://hub.docker.com/r/ibmcom/powerai/)
+
+
 ## Nvidia Docker for POWER8
 
 ### For docker installation
