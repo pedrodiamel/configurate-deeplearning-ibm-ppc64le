@@ -7,6 +7,9 @@ In this tutorial we show a step to step for install and configure a deep learnin
 ## ibmcom/powerai
 - [powerai](https://hub.docker.com/r/ibmcom/powerai/)
 
+        >>> docker pull ibmcom/powerai
+        >>> nvidia-docker run --name [name-pwai]  --ipc=host --env ACTIVATE=pytorch --env LICENSE=yes ibmcom/powerai:1.5.3-all-ubuntu16.04-py3 tail -f /dev/null
+
 
 ## Nvidia Docker for POWER8
 
